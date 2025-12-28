@@ -1,0 +1,5 @@
+# Ignore large files that exceed GitHub limits
+8_mat8.zip
+*.001
+# Ignore files larger than 50MB
+Hands-on Labs/7_mat7/Lab 10/Sources/NTFS.001

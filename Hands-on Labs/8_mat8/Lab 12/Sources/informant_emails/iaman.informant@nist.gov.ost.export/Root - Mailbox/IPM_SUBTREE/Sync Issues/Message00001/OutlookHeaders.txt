@@ -1,0 +1,12 @@
+Message:
+Client submit time:			Mar 23, 2015 19:57:30.515000000 UTC
+Delivery time:				Mar 23, 2015 19:57:30.515000000 UTC
+Creation time:				Mar 23, 2015 19:57:30.515000000 UTC
+Size:					2052
+Flags:					0x00000000 (Unread)
+Subject:				Synchronization Log: 
+Sender name:				iaman
+Sent representing name:			iaman
+Importance:				High
+Sensitivity:				None
+

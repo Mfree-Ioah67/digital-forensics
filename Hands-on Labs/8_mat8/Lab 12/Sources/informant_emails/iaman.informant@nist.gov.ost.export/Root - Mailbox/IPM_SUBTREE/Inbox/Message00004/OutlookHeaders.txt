@@ -1,0 +1,18 @@
+Message:
+Client submit time:			Mar 23, 2015 19:26:22.000000000 UTC
+Delivery time:				Mar 23, 2015 19:26:23.855622800 UTC
+Creation time:				Mar 23, 2015 19:26:23.840049100 UTC
+Size:					13804
+Flags:					0x00000001 (Read)
+Conversation topic:			Important request
+Subject:				Important request
+Sender name:				spy
+Sender email address:			/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=16DEB821A6D2423FB723680AE0D2B36A-SPY
+Sent representing name:			spy
+Sent representing email address:	/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=16DEB821A6D2423FB723680AE0D2B36A-SPY
+Importance:				Normal
+Priority:				Normal
+Sensitivity:				None
+Is a reminder:				no
+Is private:				no
+

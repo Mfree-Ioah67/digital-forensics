@@ -1,0 +1,17 @@
+Message:
+Client submit time:			Mar 24, 2015 19:34:02.435000000 UTC
+Delivery time:				Mar 24, 2015 19:34:00.000000000 UTC
+Creation time:				Mar 24, 2015 19:33:48.504000000 UTC
+Size:					5220
+Flags:					0x00000001 (Read)
+Conversation topic:			Watch out!
+Subject:				RE: Watch out!
+Sender name:				iaman
+Sender email address:			/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=25fb3fee58f74a5497f8807234114f65-iaman
+Sent representing name:			iaman
+Importance:				Normal
+Priority:				Normal
+Sensitivity:				None
+Is a reminder:				no
+Is private:				no
+

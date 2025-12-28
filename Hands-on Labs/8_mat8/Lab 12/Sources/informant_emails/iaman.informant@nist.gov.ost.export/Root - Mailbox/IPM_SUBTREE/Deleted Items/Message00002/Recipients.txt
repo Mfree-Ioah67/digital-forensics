@@ -1,0 +1,6 @@
+Display name:		spy
+Recipient display name:	spy
+Email address:		/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=16deb821a6d2423fb723680ae0d2b36a-spy
+Address type:		EX
+Recipient type:		To
+

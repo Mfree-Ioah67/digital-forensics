@@ -1,0 +1,18 @@
+Message:
+Client submit time:			Mar 23, 2015 20:41:19.000000000 UTC
+Delivery time:				Mar 23, 2015 20:41:22.214265600 UTC
+Creation time:				Mar 23, 2015 20:41:22.198651000 UTC
+Size:					16852
+Flags:					0x00000003 (Read, Unmodified)
+Conversation topic:			It's me
+Subject:				RE: It's me
+Sender name:				spy
+Sender email address:			/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=16DEB821A6D2423FB723680AE0D2B36A-SPY
+Sent representing name:			spy
+Sent representing email address:	/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=16DEB821A6D2423FB723680AE0D2B36A-SPY
+Importance:				Normal
+Priority:				Normal
+Sensitivity:				None
+Is a reminder:				no
+Is private:				no
+

@@ -1,0 +1,2 @@
+Prefetch Directory is  C:\Users\Admin\AppData\Local\Temp\Autopsy\lab1-_group2_20250516_144956\Temp\RecentActivity\1-Autopsy_PF_DB.db3_0
+DB file is  D:\FPTU\Semester 5 - SU25\FRS301\5_mat5\Lab 1\Sources\Lab1- Group2\ModuleOutput\prefetch\1-Autopsy_PF_DB.db3

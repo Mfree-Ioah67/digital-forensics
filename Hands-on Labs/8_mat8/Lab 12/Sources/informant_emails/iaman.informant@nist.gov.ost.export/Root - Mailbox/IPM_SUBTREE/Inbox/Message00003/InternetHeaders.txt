@@ -1,0 +1,48 @@
+Received: from BN1PR09MB107.namprd09.prod.outlook.com (10.255.199.23) by
+ BL2PR09MB099.namprd09.prod.outlook.com (10.255.230.152) with Microsoft SMTP
+ Server (TLS) id 15.1.106.15 via Mailbox Transport; Mon, 23 Mar 2015 19:20:41
+ +0000
+Received: from BN1PR09MB0156.namprd09.prod.outlook.com (10.255.192.146) by
+ BN1PR09MB107.namprd09.prod.outlook.com (10.255.199.23) with Microsoft SMTP
+ Server (TLS) id 15.1.99.14; Mon, 23 Mar 2015 19:20:41 +0000
+Received: from BN1PR09MB0156.namprd09.prod.outlook.com ([10.255.192.146]) by
+ BN1PR09MB0156.namprd09.prod.outlook.com ([10.255.192.146]) with mapi id
+ 15.01.0112.000; Mon, 23 Mar 2015 19:20:41 +0000
+Content-Type: application/ms-tnef; name="winmail.dat"
+Content-Transfer-Encoding: binary
+From: spy <spy.conspirator@nist.gov>
+To: iaman <iaman.informant@nist.gov>
+Subject: RE: Good job, buddy.
+Thread-Topic: Good job, buddy.
+Thread-Index: AdBlnY1W3WRhwTySSeml3g3dnR1QsgAAEsGgAAAhmXA=
+Date: Mon, 23 Mar 2015 19:20:41 +0000
+Message-ID: <BN1PR09MB0156AAB40F3D3AEFECD4C1078C0D0@BN1PR09MB0156.namprd09.prod.outlook.com>
+References: <BN1PR09MB0156CB1C7533F5F2094F2F778C0D0@BN1PR09MB0156.namprd09.prod.outlook.com>
+ <BL2PR09MB099696EEE174EB0B2E5BD70840D0@BL2PR09MB099.namprd09.prod.outlook.com>
+In-Reply-To: <BL2PR09MB099696EEE174EB0B2E5BD70840D0@BL2PR09MB099.namprd09.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <BN1PR09MB0156AAB40F3D3AEFECD4C1078C0D0@BN1PR09MB0156.namprd09.prod.outlook.com>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: BN1PR09MB0156.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [129.6.58.42]
+X-MS-Exchange-Organization-Network-Message-Id: a8898446-7781-462b-89e6-08d233b5961c
+Return-Path: spy.conspirator@nist.gov
+Authentication-Results: nist.gov; dkim=none (message not signed)
+ header.d=none;
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BN1PR09MB107;
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(601004);SRVR:BN1PR09MB107;BCL:0;PCL:0;RULEID:;SRVR:BN1PR09MB107;
+X-Forefront-Antispam-Report: SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1PR09MB107;H:BN1PR09MB0156.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Mar 2015 19:20:41.1648
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 2ab5d82f-d8fa-4797-a93e-054655c61dec
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN1PR09MB107
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6938637

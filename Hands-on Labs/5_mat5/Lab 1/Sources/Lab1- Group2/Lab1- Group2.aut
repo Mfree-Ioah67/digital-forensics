@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2025/05/16 14:49:56 (ICT)</CreatedDate>
+  <ModifiedDate>2025/05/16 14:50:00 (ICT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.22.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.22.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>lab1-_group2_20250516_144956</Name>
+    <DisplayName>Lab1- Group2</DisplayName>
+    <Number>Lab1- Group2</Number>
+    <Examiner>Group2</Examiner>
+    <ExaminerPhone>123456</ExaminerPhone>
+    <ExaminerEmail>nguyenphhse180511@fpt.edu.vn</ExaminerEmail>
+    <CaseNotes>This is lab 1</CaseNotes>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
